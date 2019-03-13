@@ -1,0 +1,24 @@
+{
+  "name": "@conceptho/adonis-aws-sdk",
+  "version": "1.0.0",
+  "description": "Package with integration between the aws sdk and the Adonis Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conceptho/adonis-aws-sdk.git"
+  },
+  "dependencies":{
+    "lodash": "^4.17.11",
+    "aws-sdk": "^2.395.0",
+    "uuid": "^3.3.2"
+  },
+  "author": "conceptho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conceptho/adonis-aws-sdk/issues"
+  },
+  "homepage": "https://github.com/conceptho/adonis-aws-sdk#readme"
+}
