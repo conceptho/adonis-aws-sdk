@@ -45,7 +45,7 @@ module.exports = {
 
 ```js
 
-const AWS = use('Conceptho/AWS-SDK) 
+const AWS = use('Conceptho/AWS-SDK') 
 ...
 
 ```
